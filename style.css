@@ -506,18 +506,18 @@ body{
     color: #fff;
 }
 
-#page20{
+#page18{
     position: relative;
     height: 100vh;
     width: 100vw;
     background-color: #000;
 }
-#page20>video{
+#page18>video{
     height: 100%;
     width: 100%;
     object-fit: cover;
 }
-#center-page20{
+#center-page18{
     position: absolute;
     height: 25%;
     width: 25%;
@@ -525,6 +525,6 @@ body{
     right: 5%;
     color: #fff;
 }
-#center-page20>h1{
+#center-page18>h1{
     margin-bottom: 2vw;
 }
