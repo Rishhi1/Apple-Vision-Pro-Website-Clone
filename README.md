@@ -4,11 +4,6 @@ Welcome to our Apple Vision Pro website clone, a meticulously crafted platform d
 
 <img width="2930" height="1652" alt="image" src="https://github.com/user-attachments/assets/dcbf6d8c-87bc-4990-8cd3-ef12a6ef14fe" />
 
-![Uploading image.png…]()
+<img width="1465" height="826" alt="Screenshot 2025-08-29 at 2 08 18 PM" src="https://github.com/user-attachments/assets/c92bc366-352a-481c-9fd7-3011e995bfd7" />
 
-![Uploading image.png…]()
-
-
-
-
-
+<img width="1465" height="826" alt="Screenshot 2025-08-29 at 2 08 42 PM" src="https://github.com/user-attachments/assets/598babb1-8ac4-439d-9764-2c7114594e3a" />
